@@ -1,3 +1,7 @@
+---
+# front matter, not sure if I need it
+---
+
 # mathematicalconscience.github.io
 
 ### 2023-02-05
@@ -15,4 +19,8 @@ No idea how jekyll works or why there seems to be such a large gap between setti
 
 #### Objects
 
+This is a page title object:
 {{ page.title }}
+It renders correctly, even if I do not include front matter in this markdown file.
+
+
