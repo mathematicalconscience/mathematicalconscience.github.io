@@ -1,5 +1,4 @@
 ---
-layout: post
 author: mathematicalconscience
 categories: useless uninteresting
 ---
