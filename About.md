@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About mathematicalconscience
 
 This is an anonymous handle, which I use for development that is experimental or where I learn new stuff.
