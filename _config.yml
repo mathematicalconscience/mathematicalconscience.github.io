@@ -1,20 +1,19 @@
 collections:
   authors:
     output: true
-  categories:
 
 defaults:
   - scope:
-    path: ""
-    type: "authors"
-  values:
-    layout: "author"
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
   - scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: "post"
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
   - scope:
-    path: ""
-  values:
-    layout: "default"
+      path: ""
+    values:
+      layout: "default"
