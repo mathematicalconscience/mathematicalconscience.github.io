@@ -2,7 +2,7 @@
 layout: post
 title: "First Ramblings"
 author: mathematicalconscience
-date: 2023-02-05 15:38:00 -0000
+date: 2023-02-05 15:38:00 +0100
 categories: useless uninteresting
 ---
 
