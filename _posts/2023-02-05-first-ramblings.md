@@ -1,4 +1,8 @@
 ---
+layout: post
+title: "First Ramblings"
+date: 2023-02-05 15:38:00 -0000
+categories: useless uninteresting
 ---
 
 ### 2023-02-05
